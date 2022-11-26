@@ -1,0 +1,6 @@
+flask
+flask-cors
+
+# DEV
+black
+flake8
